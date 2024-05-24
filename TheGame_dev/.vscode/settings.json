@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
